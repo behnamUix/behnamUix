@@ -45,11 +45,11 @@ val aliMahjoob = Developer(
 
 <div align="center">
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-mahjoob&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahjoob&layout=compact&theme=tokyonight&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&border_radius=12)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ali-mahjoob&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
@@ -58,7 +58,7 @@ val aliMahjoob = Developer(
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-mahjoob&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=behnamUix&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -77,5 +77,5 @@ val aliMahjoob = Developer(
 <h4 align="center">⚡ "Code with heart 💛, design with purpose" ⚡</h4>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-mahjoob&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=behnamUix&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
