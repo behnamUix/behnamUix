@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Karimi
+# 👋 Hi, I'm Ali mahjoob
 
 🎓 Developer | 💻 Android & Kotlin | ☁️ Interested in Cloud & AI
 
@@ -33,6 +33,6 @@
 ---
 
 ## 💬 Connect with Me
-📧 [Email](mailto:youremail@example.com)  
+📧 [Email](mailto:behnam.ir77@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
 🐦 [Twitter](https://twitter.com/yourhandle)
