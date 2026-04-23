@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Karimi
 
-<!--
-**behnamUix/behnamUix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Developer | 💻 Android & Kotlin | ☁️ Interested in Cloud & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on Android projects with Jetpack Compose
+- 🌱 Learning Kotlin Coroutines and Clean Architecture
+- 🧩 I love open-source and contributing to developer communities
+
+---
+
+## ⚙️ Tech Stack
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Karimi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Karimi&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Karimi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💬 Connect with Me
+📧 [Email](mailto:youremail@example.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
+🐦 [Twitter](https://twitter.com/yourhandle)
