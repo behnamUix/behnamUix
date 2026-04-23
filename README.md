@@ -1,38 +1,19 @@
-# 👋 Hi, I'm Ali mahjoob
+<!-- ===================================================== -->
+<!--  Ali Mahjoob | Android & Web Developer README Profile -->
+<!-- ===================================================== -->
 
-🎓 Developer | 💻 Android & Kotlin | ☁️ Interested in Cloud & AI
+<h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
 
----
-
-## 🚀 About Me
-- 🔭 Currently working on Android projects with Jetpack Compose
-- 🌱 Learning Kotlin Coroutines and Clean Architecture
-- 🧩 I love open-source and contributing to developer communities
-
----
-
-## ⚙️ Tech Stack
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=android)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+<p align="center">
+  🎓 <b>Mobile & Web Developer</b> | 💻 Android & Kotlin | ☁️ PHP | 🎨 HTML & CSS | ⚙️ Jetpack Compose
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=behnamUix&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 💬 Connect with Me
-📧 [Email](mailto:behnam.ir77@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
-🐦 [Twitter](https://twitter.com/yourhandle)
+### 🚀 About Me
+```kotlin
+val aliMahjoob = Developer(
+skills = listOf("Android", "Kotlin", "PHP", "HTML", "CSS", "Jetpack Compose"),
+mission = "Build apps with clean architecture and beautiful UI 💛",
+learning = listOf("Coroutines", "Compose Animations", "Backend Integration")
+)
