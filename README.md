@@ -35,7 +35,7 @@ val aliMahjoob = Developer(
 |:----------------:|:----:|:-----:|
 | ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin) | ![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git) |
 | ![Android](https://img.shields.io/badge/-Android-000?style=for-the-badge&logo=android) | ![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) | ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github) |
-| ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=for-the-badge&logo=jetpack-compose) | ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php) | ![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) |     (https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=sql)
+| ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=for-the-badge&logo=jetpack-compose) | ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php) | ![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) | ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=sql)
 
 
 </div>
