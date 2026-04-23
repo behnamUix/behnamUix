@@ -21,14 +21,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Karimi&show_icons=true&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Karimi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Karimi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=behnamUix&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
