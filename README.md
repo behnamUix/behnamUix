@@ -26,12 +26,6 @@ val aliMahjoob = Developer(
 - 💡 Always learning — because tech never stops evolving 🚀
 
 ---
-### ⚙️ NEW
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Stats" />
-</div>
-
 
 <div align="center">
 
@@ -48,6 +42,7 @@ val aliMahjoob = Developer(
 ### 📊 GitHub Stats
 
 <div align="center">
+
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true)
 
