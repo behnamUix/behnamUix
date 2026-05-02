@@ -44,7 +44,6 @@ val aliMahjoob = Developer(
 <div align="center">
 
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&border_radius=12)
 
