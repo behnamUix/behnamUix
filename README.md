@@ -14,7 +14,7 @@
 
 ```kotlin
 val aliMahjoob = Developer(
-    skills = listOf("Android", "Kotlin", "PHP", "HTML", "CSS", "Jetpack Compose"),
+    skills = listOf("Android", "Kotlin", "PHP", "HTML", "CSS", "Jetpack Compose","pyhton","UI","UX"),
     mission = "Build apps with clean architecture and beautiful UI 💛",
     learning = listOf("Coroutines", "Compose Animations", "Backend Integration")
 )
@@ -83,3 +83,8 @@ val aliMahjoob = Developer(
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=behnamUix&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Stats" />
+</div>
+
