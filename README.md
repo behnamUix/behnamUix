@@ -3,13 +3,14 @@
 <!-- ===================================================== -->
 
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6D28D9&center=true&vCenter=true&random=false&width=600&height=70&lines=Ali+Mahjoob;Senior+Android+Developer;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6D28D9&center=true&vCenter=true&random=true&width=600&height=70&lines=Ali+Mahjoob;Mid-Level+Android+Dev;Jetpack+Compose+Expert;MVVM+%7C+Clean+Architecture;Kotlin+Coroutines+%2B+Flow" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Developer-6D28D9?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/3%2B%20Years%20Experience-059669?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/4%2B%20Years%20Experience-059669?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/5%2B%20Projects%20Completed-DC2625?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
