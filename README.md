@@ -57,84 +57,22 @@ val aliMahjoob = Developer(
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=dark&hide_border=true)
-
-</div>
-
----
-
-
-### 📈 Activity Graph
-
-<div align="center">
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=8B5CF6&line=6D28D9&point=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-light&bg_color=ffffff&hide_border=true&area=true&color=6D28D9&line=8B5CF6&point=374151"
-      alt="Activity Graph"
-    />
-  </picture>
-
-</div>
-### 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  
-  <!-- ردیف اول: آمار اصلی -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=8B5CF6&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="49%" 
-      src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=light&hide_border=true&bg_color=ffffff&title_color=6D28D9&icon_color=8B5CF6&count_private=true&include_all_commits=true"
-      alt="GitHub Stats"
-    />
-  </picture>
   
   <picture>
     <source 
       srcset="https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=dark&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="49%" 
+    <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=light&hide_border=true&background=ffffff&stroke=6D28D9&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6"
-      alt="GitHub Streak"
-    />
-  </picture>
-  
-  <br/>
-  <br/>
-  
-  <!-- ردیف دوم: زبان‌ها و فعالیت -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6D28D9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="49%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=light&hide_border=true&bg_color=ffffff&title_color=6D28D9"
-      alt="Top Languages"
-    />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=8B5CF6&line=6D28D9&point=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="49%" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-light&bg_color=ffffff&hide_border=true&area=true&color=6D28D9&line=8B5CF6&point=374151"
-      alt="Activity Graph"
+      alt="GitHub Streak Stats"
     />
   </picture>
 
 </div>
+
+---
+
 
 
 ### 🏆 GitHub Trophies
