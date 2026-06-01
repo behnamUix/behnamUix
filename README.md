@@ -62,7 +62,6 @@ val aliMahjoob = Developer(
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=dark&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
