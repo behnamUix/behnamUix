@@ -2,8 +2,9 @@
 <!--  Ali Mahjoob | Android & Web Developer README Profile -->
 <!-- ===================================================== -->
 
-<h1 align="center">👋 Hi, I'm Ali Mahjoob(اکانت قبلیم پرید متاسفانه)</h1>
-
+<h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
+<h3>(😟 متاسفانه اکانت قبلیم پرید)</h3>
+<h4>( Unfortunately, my previous account was deleted 😟)</h4>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6D28D9&center=true&vCenter=true&random=true&width=600&height=70&lines=Ali+Mahjoob;Mid-Level+Android+Dev;Jetpack+Compose+Expert;MVVM+%7C+Clean+Architecture;Kotlin+Coroutines+%2B+Flow" alt="Typing SVG" />
 </h1>
