@@ -65,6 +65,21 @@ val aliMahjoob = Developer(
 
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- سرویس جایگزین برای top-langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=dark&hide_border=true" />
+  
+  <!-- سرویس دیگر برای آمار کلی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=dark&hide_border=true" />
+  
+  <!-- استریک استیتس (بسیار پایدار) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=dark&hide_border=true" />
+  
+</div>
+
 ---
 
 ### 🏆 GitHub Trophies
