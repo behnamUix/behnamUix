@@ -72,6 +72,23 @@ val aliMahjoob = Developer(
 
 ---
 
+### 📈 Activity Graph
+
+<div align="center">
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=8B5CF6&line=6D28D9&point=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-light&bg_color=ffffff&hide_border=true&area=true&color=6D28D9&line=8B5CF6&point=374151"
+      alt="Activity Graph"
+    />
+  </picture>
+
+</div>
+
 ### 🌐 Connect With Me
 
 <p align="center">
