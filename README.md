@@ -81,18 +81,18 @@ val aliMahjoob = Developer(
   </picture>
 
 </div>
-### ⌨️ Coding Activity (Last 7 days)
+### 🎯 Language Distribution
 
 <div align="center">
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=behnamUix&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6D28D9"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=6D28D9&size_weight=0.5&count_weight=0.5"
       media="(prefers-color-scheme: dark)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=behnamUix&layout=compact&theme=light&hide_border=true&bg_color=ffffff&title_color=6D28D9"
-      alt="WakaTime Stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=donut&theme=light&hide_border=true&bg_color=ffffff&title_color=6D28D9&size_weight=0.5&count_weight=0.5"
+      alt="Language Distribution"
     />
   </picture>
 
