@@ -50,6 +50,7 @@ val aliMahjoob = Developer(
 | ![Android](https://img.shields.io/badge/-Android-000?style=for-the-badge&logo=android) | ![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) | ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github) |
 | ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=for-the-badge&logo=jetpack-compose) | ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php) | ![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) |
 | ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java) | ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=sql) | ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python) |
+| ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react&logoColor=61DAFB) | | |
 
 </div>
 
