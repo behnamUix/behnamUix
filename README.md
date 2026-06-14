@@ -71,11 +71,6 @@ val aliMahjoob = Developer(
   </picture>
 
 </div>
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true)
-
-</div>
 
 ---
 ---
