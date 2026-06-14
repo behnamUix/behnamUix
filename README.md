@@ -2,7 +2,16 @@
 <!--  Ali Mahjoob | Android & Web Developer README Profile -->
 <!-- ===================================================== -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/behnamUix?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1" alt="GitHub Metrics" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=default&count_private=true&cache_seconds=1800"
+      alt="GitHub Stats"
+    />
+  </picture>
 </div>
 
 
