@@ -71,7 +71,12 @@ val aliMahjoob = Developer(
   </picture>
 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radial)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true)
+</div>
+
+---
 ---
 ### 📈 Activity Graph
 
