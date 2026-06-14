@@ -73,25 +73,18 @@ val aliMahjoob = Developer(
 </div>
 
 
-### 📊 GitHub Stats
-
 <div align="center">
-  
   <picture>
-    <!-- تم دارک: گرید و آمار شما را با رنگ جذاب شعاعی نشان می‌دهد -->
     <source 
-      srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true&cache_seconds=1800"
       media="(prefers-color-scheme: dark)"
     />
-    <!-- تم لایت: برای کاربرانی که از تم روشن گیت‌هاب استفاده می‌کنند -->
     <img 
-      src="https://github-readme-stats-anuraghazra.vercel.app/api?username=behnamUix&show_icons=true&theme=default&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=default&count_private=true&cache_seconds=1800"
       alt="GitHub Stats"
     />
   </picture>
-
 </div>
----
 ---
 ### 📈 Activity Graph
 
