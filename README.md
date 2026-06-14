@@ -1,6 +1,10 @@
 <!-- ===================================================== -->
 <!--  Ali Mahjoob | Android & Web Developer README Profile -->
 <!-- ===================================================== -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/behnamUix?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1" alt="GitHub Metrics" />
+</div>
+
 
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
 <h3 align="center" >😟 متاسفانه اکانت قبلیم پرید</h3>
@@ -72,9 +76,7 @@ val aliMahjoob = Developer(
 
 </div>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/behnamUix?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1" alt="GitHub Metrics" />
-</div>
+
 
 ---
 ### 📈 Activity Graph
