@@ -1,18 +1,6 @@
 <!-- ===================================================== -->
 <!--  Ali Mahjoob | Android & Web Developer README Profile -->
 <!-- ===================================================== -->
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=radial&count_private=true&cache_seconds=1800"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=default&count_private=true&cache_seconds=1800"
-      alt="GitHub Stats"
-    />
-  </picture>
-</div>
 
 
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
