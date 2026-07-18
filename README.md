@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>Mobile  Developer</b> | 💻 Android & Kotlin | Reverse Enginnering | ☁️ PHP | 🎨 HTML & CSS | ⚙️ Jetpack Compose | React native | PYTHON 🐍
+  🎓 <b>Mobile  Developer</b> | 💻 Android & Kotlin | Reverse Enginnering | ☁️ PHP | 🎨 HTML & CSS | ⚙️ Jetpack Compose | React native | KTOR | PYTHON 🐍
 </p>
 
 ---
