@@ -95,14 +95,21 @@ val aliMahjoob = Developer(
 
 
 
-### 🏆 GitHub Trophies
+## 📊 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behnamUix" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behnamUix&theme=tokyonight"/>
+
 </div>
 
----
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=behnamUix&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 
 ### 🌐 Connect With Me
