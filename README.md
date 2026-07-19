@@ -95,14 +95,27 @@ val aliMahjoob = Developer(
 
 
 
-## 📊 Profile Summary
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behnamUix&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=behnamUix&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 
 ### 🌐 Connect With Me
