@@ -108,10 +108,9 @@ val aliMahjoob = Developer(
 ### 🌐 Connect With Me
 
 <p align="center">
-📧 <a href="mailto:behnam.ir77@gmail.com">behnam.ir77@gmail.com</a>
-💼 <a href="https://www.linkedin.com/in/ali-mahjoob/">LinkedIn</a>
-🐦 <a href="https://twitter.com/ali_mahjoob">Twitter</a>
-📸 <a href="https://www.instagram.com/ali.mahjoob">Instagram</a>
+📧 <a href="mailto:behnam.ir77@gmail.com">Email</a>
+💼 <a href="https://www.linkedin.com/in/behnamuix/">LinkedIn</a>
+
 </p>
 
 ---
