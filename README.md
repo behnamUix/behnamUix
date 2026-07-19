@@ -56,22 +56,6 @@ val aliMahjoob = Developer(
 </div>
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=dark&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=behnamUix&theme=light&hide_border=true&background=ffffff&stroke=6D28D9&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6"
-      alt="GitHub Streak Stats"
-    />
-  </picture>
-
-</div>
 
 
 
