@@ -191,20 +191,6 @@ modern mobile UI and user interaction.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-  height="170"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  height="170"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
   src="https://streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true"
   height="170"
   alt="GitHub Contribution Streak"
