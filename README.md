@@ -1,32 +1,67 @@
 <!-- ===================================================== -->
-<!--  Ali Mahjoob | Android & Web Developer README Profile -->
+<!-- Ali Mahjoob | Android Developer -->
 <!-- ===================================================== -->
 
-
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
-<h3 align="center" >😟 متاسفانه اکانت قبلیم پرید</h3>
-<h4 align="center" > Unfortunately, my previous account was deleted 😟 </h4>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6D28D9&center=true&vCenter=true&random=true&width=600&height=70&lines=Ali+Mahjoob;Mid-Level+Android+Dev;React-Native;Jetpack+Compose+Expert;MVVM+%7C+Clean+Architecture;Kotlin+Coroutines+%2B+Flow" alt="Typing SVG" />
-</h1>
+
+<h3 align="center">
+  Android Developer | Kotlin & Jetpack Compose
+</h3>
+
+<p align="center">
+  Building modern, scalable and maintainable Android applications
+  with clean architecture and thoughtful UI.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=6D28D9&center=true&vCenter=true&width=650&height=60&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Clean+Architecture+%7C+MVVM+%7C+MVI;Coroutines+%7C+Flow;Building+Scalable+Android+Apps" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Developer-6D28D9?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/4%2B%20Years%20Experience-059669?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/5%2B%20Projects%20Completed-DC2625?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behnamUix&color=6D28D9&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center">
-  🎓 <b>Mobile  Developer</b> | 💻 Android & Kotlin | Reverse Enginnering | ☁️ PHP | 🎨 HTML & CSS | ⚙️ Jetpack Compose | React native | KTOR | PYTHON 🐍
-</p>
-
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
+I'm an **Android Developer** focused on building modern and maintainable mobile applications with **Kotlin and Jetpack Compose**.
+
+My main focus is designing scalable application architectures, writing clean and testable code, integrating APIs, and building responsive user interfaces.
+
+```kotlin
+val aliMahjoob = Developer(
+    role = "Android Developer",
+    primaryStack = listOf(
+        "Kotlin",
+        "Android SDK",
+        "Jetpack Compose"
+    ),
+    architecture = listOf(
+        "Clean Architecture",
+        "MVVM",
+        "MVI"
+    ),
+    asynchronous = listOf(
+        "Coroutines",
+        "Flow"
+    ),
+    dataAndNetworking = listOf(
+        "Retrofit",
+        "Ktor",
+        "Room"
+    ),
+    dependencyInjection = listOf(
+        "Hilt",
+        "Koin"
+    )
+)### 🚀 About Me
 
 ```kotlin
 val aliMahjoob = Developer(
