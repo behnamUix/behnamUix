@@ -4,6 +4,8 @@
 
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
 
+<h2 align="center"> در  حال کار بر روی این پروژه :https://github.com/aminsakha/Nova_Player </h2>
+
 <h3 align="center">Android Developer | Kotlin & Jetpack Compose</h3>
 
 <p align="center">
