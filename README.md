@@ -1,404 +1,235 @@
 <!-- ===================================================== -->
-
 <!-- Ali Mahjoob | Android Developer -->
-
 <!-- ===================================================== -->
 
 <h1 align="center">👋 Hi, I'm Ali Mahjoob</h1>
 
-<h3 align="center">
-  Android Developer · Kotlin · Jetpack Compose
-</h3>
+<h2 align="center"> در  حال کار و مدیریت  بر روی این پروژه :https://github.com/aminsakha/Nova_Player </h2>
+
+<h3 align="center">Android Developer | Kotlin & Jetpack Compose</h3>
 
 <p align="center">
   Building modern, scalable and maintainable Android applications
-  with a strong focus on architecture, performance and user experience.
+  with Clean Architecture and thoughtful UI.
 </p>
 
 <p align="center">
-  <a href="https://github.com/behnamUix">
-    <img src="https://img.shields.io/badge/GitHub-behnamUix-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/behnamuix/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:behnam.ir77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=700&color=6D28D9&center=true&vCenter=true&width=650&height=60&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Clean+Architecture+%7C+MVVM+%7C+MVI;Coroutines+%7C+Flow;Building+Scalable+Android+Apps" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=700&height=60&lines=Android+Developer;Kotlin+%7C+Jetpack+Compose;Clean+Architecture+%7C+MVVM+%7C+MVI;Coroutines+%7C+Flow+%7C+Media3;Building+Real-World+Android+Applications" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Android Developer** focused on building modern Android applications with **Kotlin** and **Jetpack Compose**.
-
-My main focus is not only writing code, but designing applications that are:
-
-* 🏗️ Scalable
-* 🧩 Maintainable
-* ⚡ Performant
-* 🧪 Testable
-* 🎨 Consistent and user-friendly
-* 🔄 Easy to evolve as the product grows
-
-I enjoy working on real-world applications where architecture, state management, networking, local storage, media playback and UI/UX all have to work together.
-
-Currently, I'm actively working on **Nova Player**, a modern Android music player built around **Media3, Jetpack Compose and Clean Architecture**.
-
----
-
-## 🚀 What I Work With
-
-### 📱 Android Development
-
-* Kotlin
-* Android SDK
-* Jetpack Compose
-* Material 3
-* AndroidX
-* Lifecycle & ViewModel
-* Navigation
-* Media3 / ExoPlayer
-* MediaSession & Background Playback
-
-### 🏗️ Architecture
-
-* Clean Architecture
-* MVVM
-* MVI / Unidirectional Data Flow
-* Feature-based architecture
-* Repository Pattern
-* Use Cases
-* State-driven UI
-* Separation of Concerns
-
-### ⚡ Asynchronous Programming
-
-* Kotlin Coroutines
-* Flow
-* StateFlow
-* SharedFlow
-* Lifecycle-aware state collection
-
-### 🌐 Networking
-
-* Retrofit
-* Ktor Client
-* REST APIs
-* JSON
-* Kotlinx Serialization
-* Error handling
-* Network state management
-
-### 💾 Local Data
-
-* Room
-* DataStore
-* Local persistence
-* Caching
-* Reactive local data with Flow
-
-### 💉 Dependency Injection
-
-* Hilt
-* Koin
-
-### 🎨 UI / UX
-
-* Jetpack Compose
-* Material 3
-* Responsive layouts
-* Custom Compose components
-* Animations
-* Dark UI
-* RTL / Persian UI
-* State-driven UI
-
-### 🛠️ Tools
-
-* Android Studio
-* Git
-* GitHub
-* Gradle
-* Kotlin DSL
-* Version Catalogs
-* GitHub Actions
-* REST API tools
-
----
-
-# ⭐ Featured Projects
-
-## 🎵 Nova Player
-
-A modern Android music player focused on building a complete playback experience rather than a simple audio player.
-
-The project includes:
-
-* 🎧 Local music library
-* ▶️ Play / Pause
-* ⏭️ Next / Previous
-* 🎵 Playlist management
-* 🎛️ Mini Player
-* 🔄 Playback state synchronization
-* 📱 MediaSession
-* 🔊 Background playback
-* 🔐 Runtime permission handling
-* 🧠 ViewModel-driven UI state
-* 🏗️ Clean Architecture
-* ⚡ Kotlin Coroutines & Flow
-* 🎨 Jetpack Compose
-* 🎬 AndroidX Media3 / ExoPlayer
-
-**Stack:**
-
-`Kotlin` `Jetpack Compose` `Media3` `ExoPlayer` `MediaSession` `Coroutines` `Flow` `Hilt` `Clean Architecture`
-
-🔗 **Repository:**
-https://github.com/aminsakha/Nova_Player
-
----
-
-## ✈️ Parvaznama
-
-An Android application for displaying and exploring international flight information.
-
-The project focuses on consuming real-world aviation APIs and transforming external data into a usable Android experience.
-
-### Features
-
-* ✈️ International flight information
-* 🛫 Departure & Arrival information
-* 🏢 Airline information
-* 🛬 Airport search
-* 🔎 Airport lookup
-* 🛩️ Aircraft information
-* 📍 Airport coordinates
-* 🗺️ Map integration
-* 📅 Flight date & time processing
-* 🇮🇷 Persian date / number handling
-* 🌐 REST API integration
-
-### Tech Stack
-
-`Kotlin` `Jetpack Compose` `Ktor` `Kotlinx Serialization` `Koin` `Voyager` `Mapbox` `Coil` `Lottie` `Coroutines`
-
-🔗 **Repository:**
-https://github.com/behnamUix/Parvaznama
-
----
-
-## 🎮 SpyGame
-
-A Persian party game designed around interactive multiplayer gameplay.
-
-The project has been continuously improved with a focus on modern Android architecture and UI.
-
-### Focus Areas
-
-* Jetpack Compose
-* Material 3
-* Feature-based architecture
-* Clean Architecture
-* State management
-* Modern Android UI
-* Local data
-* Reusable components
-
-**Stack:**
-
-`Kotlin` `Jetpack Compose` `Material 3` `Clean Architecture` `MVVM` `Room`
-
----
-
-## 🎬 Popcorn
-
-A movie discovery Android application focused on consuming external movie APIs and presenting movie information through a modern Compose UI.
-
-**Stack:**
-
-`Kotlin` `Jetpack Compose` `REST API` `Retrofit` `Coroutines` `Flow`
-
----
-
-# 🧠 Engineering Principles
-
-I try to approach Android development beyond simply making the UI work.
-
-### Architecture First
-
-I prefer separating responsibilities between:
-
-```text
-Presentation
-     ↓
-Domain
-     ↓
-Data
-```
-
-and keeping business logic independent from the UI whenever possible.
-
-### State-Driven UI
-
-My Compose UIs are designed around a single source of truth:
-
-```text
-User Action
-     ↓
-ViewModel
-     ↓
-UseCase
-     ↓
-Repository
-     ↓
-Data Source
-     ↓
-State
-     ↓
-Compose UI
-```
-
-### Maintainability
-
-I care about:
-
-* Clear responsibilities
-* Small and focused components
-* Predictable state
-* Reusable UI components
-* Explicit error handling
-* Dependency inversion
-* Testability
-* Meaningful naming
-
----
-
-# 🔥 Currently Working On
-
-## 🎵 Nova Player
-
-I'm currently developing and refining Nova Player as a real-world Android music player.
-
-Current areas of work include:
-
-* Media3 playback architecture
-* MediaSession
-* Background playback
-* Playlist navigation
-* Mini Player synchronization
-* Playback state management
-* Local music discovery
-* Runtime permissions
-* Compose UI
-* Clean Architecture
-* MVI-style state management
-
-The goal is to turn the project into a complete, production-oriented Android music player rather than just a demo application.
-
----
-
-# 📚 Continuous Learning
-
-I'm continuously improving my knowledge in:
-
-* Advanced Kotlin
-* Android Architecture
-* Jetpack Compose
-* Media3
-* Coroutines & Flow
-* Dependency Injection
-* Performance Optimization
-* Testing
-* Modular Android Architecture
-* Backend integration
-* Flutter & Dart
-
-I'm also exploring **Flutter** to better understand cross-platform application architecture and compare it with native Android development.
-
----
-
-# 🧰 Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,android,gradle,git,github,java,flutter,dart" />
-
+  <img src="https://img.shields.io/badge/Android-6D28D9?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Clean_Architecture-059669?style=for-the-badge" alt="Clean Architecture">
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Material%203-6750A4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Media3%20%2F%20ExoPlayer-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flow-6D28D9?style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=behnamUix&color=6D28D9&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
 
-<p align="center">
+<hr>
 
-<img src="https://img.shields.io/badge/Clean%20Architecture-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Koin-6D28D9?style=for-the-badge" />
+<h2>🚀 About Me</h2>
 
+<p>
+  I'm an <strong>Android Developer</strong> focused on building modern,
+  scalable and maintainable mobile applications using
+  <strong>Kotlin and Jetpack Compose</strong>.
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge" />
-
+<p>
+  I focus on scalable architecture, clean code, API integration,
+  local data management, performance and modern Android UI.
 </p>
 
----
+<h3>💡 Core Expertise</h3>
 
-# 📊 GitHub
+<ul>
+  <li>📱 Android Development with Kotlin</li>
+  <li>🎨 Jetpack Compose & Modern UI</li>
+  <li>🏗️ Clean Architecture, MVVM & MVI</li>
+  <li>⚡ Coroutines & Flow</li>
+  <li>🌐 Retrofit, Ktor & REST APIs</li>
+  <li>💾 Room Database</li>
+  <li>🧩 Hilt & Koin</li>
+  <li>🧪 Testable & Maintainable Code</li>
+  <li>🚀 Performance Optimization</li>
+</ul>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true" height="170"/>
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<div align="center">
+
+<h3>Android</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,gradle,compose" alt="Android Tech Stack">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=8B5CF6&line=6D28D9&point=FFFFFF" />
+<h3>Architecture & Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6D28D9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MVI-059669?style=for-the-badge">
 </p>
 
----
+<p>
+  <strong>Coroutines · Flow · Navigation · Room</strong>
+</p>
 
-# 🤝 Let's Connect
+<h3>Networking</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge">
+</p>
+
+<h3>Dependency Injection</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Koin-6D28D9?style=for-the-badge">
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio" alt="Development Tools">
+</p>
+
+</div>
+
+<hr>
+
+<h2>📌 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🎮 SpyGame</h3>
+
+<p>
+Android application focused on interactive gameplay
+and modern Android development.
+</p>
+
+<p>
+<strong>Kotlin · Jetpack Compose · Clean Architecture · MVVM</strong>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>💰 Crypto API</h3>
+
+<p>
+Android project focused on consuming cryptocurrency
+data through REST APIs.
+</p>
+
+<p>
+<strong>Kotlin · Retrofit · Coroutines · Flow</strong>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🎬 Popcorn</h3>
+
+<p>
+Android application for discovering and exploring movies.
+</p>
+
+<p>
+<strong>Kotlin · Jetpack Compose · REST API</strong>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>🗺️ Mazejoo</h3>
+
+<p>
+Location-based Android application focused on
+modern mobile UI and user interaction.
+</p>
+
+<p>
+<strong>Kotlin · Android · Location Services</strong>
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h2>📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=8B5CF6&line=6D28D9&point=FFFFFF"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<hr>
+
+<h2>🏆 GitHub Analytics</h2>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+<hr>
+
+<h2>🤝 Let's Connect</h2>
 
 <p align="center">
 
 <a href="mailto:behnam.ir77@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  >
 </a>
 
 <a href="https://www.linkedin.com/in/behnamuix/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
 
-<a href="https://github.com/behnamUix">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </p>
 
----
+<hr>
+
+<h4 align="center">
+  Building better Android experiences, one feature at a time. 🚀
+</h4>
 
 <p align="center">
-  <strong>Building real-world Android applications with clean architecture and modern technologies. 🚀</strong>
-</p>
-
-<p align="center">
-  <i>Code with purpose. Build for scale.</i>
-</p>
+  <img
+    src="https://komarev.com/ghpvc/?username=behnamUix&color=blueviolet&style=flat-square"
+    alt="Profile Views"
+  >
