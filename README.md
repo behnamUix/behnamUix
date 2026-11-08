@@ -173,7 +173,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
+<div align="center"><a href="https://github.com/behnamUix">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="آمار فعالیت‌های گیت‌هاب" />
+</a><a href="https://github.com/behnamUix">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&hide_border=true" alt="زبان‌های برنامه‌نویسی" />
+</a><br><br>
 <a href="https://github.com/behnamUix">
   <img src="https://img.shields.io/github/followers/behnamUix?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="GitHub Followers"/>
 </a>
