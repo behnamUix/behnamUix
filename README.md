@@ -1,311 +1,313 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:312E81,75:6D28D9,100:A78BFA&text=ALI%20MAHJOOB&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ANDROID%20DEVELOPER%20%7C%20KOTLIN%20%7C%20JETPACK%20COMPOSE&descAlignY=58&descSize=15&animation=fadeIn" /><a href="https://github.com/behnamUix">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Building+Modern+Android+Applications;Clean+Architecture+%7C+MVVM+%7C+MVI;Jetpack+Compose+%7C+Kotlin+%7C+Coroutines;From+UI+Design+to+Production-Ready+Apps" alt="معرفی و مهارت‌های علی محجوب" />
-</a><br>توسعه‌دهنده اندروید | طراح رابط کاربری | علاقه‌مند به معماری نرم‌افزار
+ <div align="center">
 
-ساخت اپلیکیشن‌های مدرن، طراحی رابط‌های کاربری زیبا و توسعه نرم‌افزارهای قابل نگهداری.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,45:312E81,100:7C3AED&text=ALI%20MAHJOOB&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=ANDROID%20DEVELOPER%20%7C%20KOTLIN%20%7C%20JETPACK%20COMPOSE&descAlignY=60&descSize=14&animation=fadeIn" />
 
-<br><a href="https://github.com/behnamUix">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### توسعه‌دهنده اندروید با تمرکز بر معماری نرم‌افزار و تجربه کاربری
+
+**۴+ سال تجربه عملی و پروژه‌محور در توسعه اپلیکیشن‌های Android**
+
+طراحی و پیاده‌سازی اپلیکیشن‌های مدرن، ساختارهای نرم‌افزاری قابل توسعه و رابط‌های کاربری حرفه‌ای با Kotlin و Jetpack Compose.
+
+<br/>
+
+<a href="https://github.com/behnamUix">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/behnamuix/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:behnam.ir77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a><br><br>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=behnamUix&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="بازدید پروفایل" /></div>---
+<a href="https://github.com/behnamUix">
+<img src="https://komarev.com/ghpvc/?username=behnamUix&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+</a>
 
-"01" / درباره من
-
-سلام! من علی محجوب هستم؛ توسعه‌دهنده اندروید با تمرکز بر Kotlin، Jetpack Compose و معماری نرم‌افزار.
-
-علاقه‌مندم اپلیکیشن‌هایی بسازم که علاوه بر ظاهر مدرن، ساختار فنی اصولی، تجربه کاربری مناسب و قابلیت توسعه در آینده داشته باشند.
-
-- 📱 توسعه اندروید: ساخت رابط‌های کاربری مدرن با Kotlin و Jetpack Compose
-- 🏗️ معماری نرم‌افزار: طراحی ساختارهای مبتنی بر Clean Architecture، MVVM و MVI
-- ⚡ برنامه‌نویسی واکنشی: مدیریت وضعیت و عملیات ناهمگام با Coroutines و Flow
-- 🌐 ارتباط با سرور: کار با REST API و ابزارهایی مانند Retrofit و Ktor
-- 🎨 طراحی رابط کاربری: طراحی صفحات و تجربه‌های کاربری با Figma
-- 🔬 مهندسی نرم‌افزار: توجه به خوانایی کد، نگهداری‌پذیری و جداسازی مسئولیت‌ها
-- 🌍 توسعه چندسکویی: یادگیری و پیاده‌سازی پروژه‌ها با Kotlin Multiplatform
+</div>
 
 ---
 
-"02" / پروژه‌های منتخب
+## 01 / درباره من
 
-<div align="center">🚀 پروژه‌هایی که روی آن‌ها کار کرده‌ام
+سلام، من علی محجوب هستم؛ توسعه‌دهنده اندروید با بیش از ۴ سال تجربه عملی و پروژه‌محور در طراحی و توسعه اپلیکیشن‌های Android.
 
-پروژه‌های زیر حوزه‌های مختلف توسعه اندروید، چندرسانه‌ای، سفر و طراحی اپلیکیشن را پوشش می‌دهند.
+تمرکز اصلی من روی ساخت نرم‌افزارهایی است که فقط از نظر ظاهری جذاب نباشند؛ بلکه از معماری اصولی، ساختار قابل نگهداری، عملکرد مناسب و تجربه کاربری استاندارد برخوردار باشند.
 
-</div><table>
-<tr>
-<td width="50%" valign="top"><h3>🎵 Nova Player</h3>پخش‌کننده موسیقی اندروید
+در طول مسیر توسعه، روی پروژه‌هایی در حوزه‌های مختلف از جمله پخش رسانه، اطلاعات سفر، اپلیکیشن‌های مبتنی بر موقعیت مکانی، بازی و توسعه چندسکویی کار کرده‌ام.
 
-یک پروژه پخش موسیقی با تمرکز بر تجربه پخش پایدار، رابط کاربری مدرن و معماری قابل توسعه.
+**حوزه‌های تخصصی من:**
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Media3-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=flat-square" />ویژگی‌ها و حوزه‌های فنی
+- 📱 **Android Development:** توسعه Native با Kotlin و Android SDK
+- 🎨 **Modern UI:** طراحی و پیاده‌سازی رابط کاربری با Jetpack Compose و Material 3
+- 🏗️ **Software Architecture:** طراحی ساختارهای Clean Architecture، MVVM و MVI
+- ⚡ **Reactive Programming:** مدیریت جریان داده و عملیات ناهمگام با Coroutines و Flow
+- 🌐 **Networking:** ارتباط با REST API با Retrofit و Ktor
+- 💾 **Data Management:** ذخیره‌سازی و مدیریت داده با Room و DataStore
+- 💉 **Dependency Injection:** استفاده از Hilt و Koin
+- 🌍 **Multiplatform:** توسعه پروژه‌های مشترک با Kotlin Multiplatform
 
-- 🎧 مدیریت کتابخانه موسیقی محلی
-- ▶️ پخش رسانه با Media3 و ExoPlayer
-- 🔊 پخش موسیقی در پس‌زمینه
-- 🎛️ مدیریت MediaSession
-- ⏭️ کنترل آهنگ بعدی و قبلی
-- 🎼 مدیریت فهرست پخش
-- 📱 مینی‌پلیر
-- 🔄 مدیریت وضعیت پخش
+هدف من ساخت محصولاتی با کیفیت مهندسی بالا و تجربه کاربری مناسب است.
 
-<br><a href="https://github.com/aminsakha/Nova_Player">
-<img src="https://img.shields.io/badge/مشاهده_مخزن-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="مشاهده مخزن Nova Player" />
-</a></td>
-<td width="50%" valign="top"><h3>✈️ Parvaznama</h3>اپلیکیشن اطلاعات پرواز و فرودگاه
+---
 
-پروژه‌ای اندرویدی برای بررسی اطلاعات پروازها، فرودگاه‌ها و اطلاعات مرتبط با سفر با استفاده از API.
+## 02 / پروژه‌های منتخب
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Ktor-7F52FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Koin-6D28D9?style=flat-square" />ویژگی‌ها و حوزه‌های فنی
+پروژه‌هایی که در آن‌ها تجربه طراحی، پیاده‌سازی، معماری و توسعه اپلیکیشن‌های اندرویدی را کسب کرده‌ام.
 
-- ✈️ نمایش اطلاعات پرواز
-- 🛫 اطلاعات مبدأ و مقصد
-- 🏢 اطلاعات شرکت‌های هواپیمایی
-- 🛬 جست‌وجوی فرودگاه‌ها
-- 🗺️ یکپارچه‌سازی Mapbox
-- 📍 استفاده از مختصات جغرافیایی
-- 🌐 ارتباط با REST API
-- 📅 پردازش تاریخ و زمان
+### 🎵 Nova Player
+**Android Music Player | Media Architecture**
 
-<br><a href="https://github.com/behnamUix/Parvaznama">
-<img src="https://img.shields.io/badge/مشاهده_مخزن-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="مشاهده مخزن Parvaznama" />
-</a></td>
-</tr><tr>
-<td width="50%" valign="top"><h3>🕵️ SpyGame | جاسوسم</h3>بازی گروهی حدس نقش و کلمه
+یک پروژه پخش موسیقی اندرویدی با تمرکز بر معماری پخش رسانه، مدیریت وضعیت پخش و تجربه کاربری مدرن.
 
-یک بازی فارسی با محوریت نقش‌ها و کلمات که برای ایجاد تجربه‌ای سرگرم‌کننده در جمع دوستان طراحی شده است.
+**ویژگی‌های فنی:**
+- مدیریت کتابخانه موسیقی محلی
+- پخش رسانه با AndroidX Media3 و ExoPlayer
+- Background Playback
+- مدیریت MediaSession
+- مدیریت Playlist و Playback Queue
+- پیاده‌سازی Mini Player
+- مدیریت وضعیت پخش
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_3-6750A4?style=flat-square" />حوزه‌های فنی
+`Kotlin` `Jetpack Compose` `Media3` `ExoPlayer` `Hilt`
 
-- 🎮 پیاده‌سازی منطق بازی
-- 🎨 طراحی رابط کاربری با Compose
-- 🏗️ معماری مبتنی بر قابلیت‌ها
-- 🧩 جداسازی مسئولیت‌های نرم‌افزار
-- 💾 ذخیره‌سازی داده‌های محلی
-- 🔄 مدیریت وضعیت صفحات و بازی
+[مشاهده مخزن پروژه](https://github.com/aminsakha/Nova_Player)
 
-<br><a href="https://github.com/behnamUix?tab=repositories">
-<img src="https://img.shields.io/badge/مشاهده_پروژه‌ها-181717?style=for-the-badge&logo=github&logoColor=white" alt="مشاهده پروژه‌های جاسوسم" />
-</a></td>
-<td width="50%" valign="top"><h3>🍳 Sarashpaz Papiyon</h3>سرآشپز پاپیون | پروژه آشپزی چندسکویی
+### ✈️ Parvaznama
+**Flight & Airport Information Application**
 
-بازطراحی و توسعه یک تجربه مدرن برای اپلیکیشن آشپزی با استفاده از Kotlin Multiplatform و Compose Multiplatform.
+اپلیکیشن اندرویدی برای جست‌وجو و نمایش اطلاعات پروازها و فرودگاه‌ها با استفاده از سرویس‌های آنلاین.
 
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Architecture-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/MVI-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Koin-6D28D9?style=flat-square" />تمرکز فنی نسخه چندسکویی
+**ویژگی‌های فنی:**
+- دریافت اطلاعات پرواز
+- اطلاعات مبدأ و مقصد
+- جست‌وجوی فرودگاه‌ها
+- اطلاعات شرکت‌های هواپیمایی
+- یکپارچه‌سازی Mapbox
+- پردازش اطلاعات جغرافیایی و تاریخ
 
-- 🎨 طراحی رابط کاربری با تمرکز بر تجربه کاربری
-- 🏗️ معماری Clean Architecture
-- 🔄 مدیریت وضعیت با الگوی MVI
-- 🧩 ساختاردهی Feature-Based
-- 💉 تزریق وابستگی با Koin
-- 📱 توسعه چندسکویی با Kotlin Multiplatform
+`Kotlin` `Jetpack Compose` `Ktor` `Koin` `Mapbox`
 
-<br><a href="https://www.myket.ir/app/ir.mynal.papillon.papillonchef/?lang=fa">
-<img src="https://img.shields.io/badge/مشاهده_برنامه_در_مایکت-00A86B?style=for-the-badge" alt="مشاهده سرآشپز پاپیون در مایکت" />
-</a></td>
-</tr><tr>
-<td width="50%" valign="top"><h3>🎬 Popcorn</h3>پروژه کشف و جست‌وجوی فیلم
+[مشاهده مخزن پروژه](https://github.com/behnamUix/Parvaznama)
 
-پروژه‌ای در حوزه محتوای سینمایی با تمرکز بر توسعه اندروید و نمایش اطلاعات فیلم‌ها.
+### 🕵️ جاسوسم | Spy Manager
+**Persian Multiplayer Party Game**
 
-- 🎬 محتوای مرتبط با فیلم
-- 🌐 ارتباط با API
-- 🎨 رابط کاربری اندرویدی
+یک بازی گروهی فارسی با محوریت حدس کلمه و شناسایی نقش جاسوس، با تمرکز بر منطق بازی و تجربه کاربری.
 
-</td>
-<td width="50%" valign="top"><h3>💰 Crypto Projects</h3>پروژه‌های مرتبط با رمزارزها
+**ویژگی‌های فنی:**
+- طراحی و پیاده‌سازی منطق بازی
+- معماری Feature-Based
+- جداسازی لایه‌های نرم‌افزار
+- مدیریت وضعیت بازی
+- ذخیره‌سازی اطلاعات محلی
+- رابط کاربری با Compose و Material 3
 
-مجموعه‌ای از تجربه‌های برنامه‌نویسی در حوزه داده‌ها و سرویس‌های مرتبط با رمزارزها.
+`Kotlin` `Jetpack Compose` `Clean Architecture` `Hilt` `DataStore`
 
-- 🌐 REST API
-- 🔄 Kotlin Coroutines و Flow
-- 📡 دریافت و پردازش اطلاعات
+[مشاهده مخزن SpyManager](https://github.com/behnamUix/SpyManager)
 
-</td>
-</tr><tr>
-<td colspan="2" valign="top"><h3>📍 Mazejoo</h3>اپلیکیشن مبتنی بر موقعیت مکانی
+### 🍳 Sarashpaz Papiyon
+**Kotlin Multiplatform | Recipe Application**
 
-پروژه‌ای در حوزه اپلیکیشن‌های اندرویدی مبتنی بر موقعیت مکانی.
+توسعه و بازطراحی تجربه یک اپلیکیشن آشپزی با رویکرد چندسکویی و معماری مدرن.
 
-<a href="https://github.com/behnamUix?tab=repositories">
-<img src="https://img.shields.io/badge/مشاهده_تمام_مخازن-181717?style=for-the-badge&logo=github&logoColor=white" alt="مشاهده تمام مخازن" />
-</a></td>
-</tr>
-</table>---
+**تمرکز فنی:**
+- توسعه مشترک منطق برنامه با Kotlin Multiplatform
+- طراحی رابط کاربری با Compose Multiplatform
+- معماری Clean Architecture
+- مدیریت وضعیت با MVI
+- ساختار Feature-Based
+- مدیریت وابستگی با Koin
+- پیاده‌سازی Repository و Fake Data Sources
 
-"03" / پشته فناوری
+`Kotlin Multiplatform` `Compose Multiplatform` `MVI` `Koin`
 
-<div align="center">📱 توسعه اندروید
+[مشاهده برنامه در مایکت](https://www.myket.ir/app/ir.mynal.papillon.papillonchef/?lang=fa)
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,android,gradle&theme=dark" alt="فناوری‌های توسعه اندروید" /><br><br>
+### 📍 Mazejoo
+**Location-Based Android Application**
 
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AndroidX-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br><br>
+اپلیکیشنی برای جست‌وجوی کافه‌ها و رستوران‌های اطراف کاربر بر اساس موقعیت مکانی.
 
-🏗️ معماری و طراحی نرم‌افزار
+- دریافت موقعیت جغرافیایی کاربر
+- جست‌وجوی مکان‌های نزدیک
+- پردازش اطلاعات مکانی
+- طراحی تجربه کاربری مبتنی بر Location
 
-<img src="https://img.shields.io/badge/Clean_Architecture-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVVM-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SOLID-374151?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Repository_Pattern-475569?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Feature--Based_Architecture-6D28D9?style=for-the-badge" /><br><br>
+`Kotlin` `Android` `Location Services`
 
-⚡ برنامه‌نویسی ناهمگام و واکنشی
+[مشاهده مخزن](https://github.com/behnamUix/Mazejoo)
 
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flow-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/StateFlow-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SharedFlow-9333EA?style=for-the-badge" /><br><br>
+### 💰 Crypto Projects
+**Cryptocurrency & REST API Integration**
 
-🌐 ارتباط با سرور و شبکه
+مجموعه‌ای از پروژه‌های مرتبط با دریافت، پردازش و نمایش اطلاعات رمزارزها.
 
-<img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kotlinx_Serialization-7F52FF?style=for-the-badge" /><br><br>
+- دریافت داده از REST API
+- پیاده‌سازی ارتباط شبکه با Ktor
+- پردازش اطلاعات با Kotlin
+- استفاده از Coroutines و Flow
 
-💾 ذخیره‌سازی اطلاعات
+[مشاهده CryptoApi](https://github.com/behnamUix/CryptoApi)
 
-<img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br><br>
+---
 
-🎵 پخش رسانه
+## 03 / پشته فناوری
 
-<img src="https://img.shields.io/badge/AndroidX_Media3-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ExoPlayer-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MediaSession-FF6F00?style=for-the-badge" /><br><br>
+### Android Development
 
-💉 تزریق وابستگی و کتابخانه‌ها
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,android,gradle&theme=dark"/>
+</p>
 
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Koin-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Voyager-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Coil-7F52FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Lottie-00C4CC?style=for-the-badge" /><br><br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-6750A4?style=flat-square)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-🌍 توسعه چندسکویی و ابزارها
+### Architecture & Design Patterns
 
-<img src="https://skillicons.dev/icons?i=kotlin,git,github,androidstudio,figma&theme=dark" alt="ابزارهای توسعه و طراحی" /><br><br>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-059669?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-2563EB?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI-7C3AED?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-374151?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-475569?style=flat-square)
+![Feature Based](https://img.shields.io/badge/Feature--Based-6D28D9?style=flat-square)
 
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge" /></div>---
+### Asynchronous & Reactive Programming
 
-"04" / رویکرد مهندسی من
+![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=flat-square)
+![Flow](https://img.shields.io/badge/Flow-0891B2?style=flat-square)
+![StateFlow](https://img.shields.io/badge/StateFlow-6D28D9?style=flat-square)
+![SharedFlow](https://img.shields.io/badge/SharedFlow-9333EA?style=flat-square)
 
-<table>
-<tr>
-<th>حوزه</th>
-<th>رویکرد</th>
-</tr>
-<tr>
-<td>🏗️ معماری</td>
-<td>جداسازی مسئولیت‌ها و طراحی ساختار قابل توسعه</td>
-</tr>
-<tr>
-<td>🔄 مدیریت وضعیت</td>
-<td>مدیریت وضعیت قابل پیش‌بینی و جریان یک‌طرفه داده</td>
-</tr>
-<tr>
-<td>⚡ پردازش ناهمگام</td>
-<td>Kotlin Coroutines و Flow</td>
-</tr>
-<tr>
-<td>🎨 رابط کاربری</td>
-<td>Jetpack Compose و Material 3</td>
-</tr>
-<tr>
-<td>🌐 ارتباط شبکه</td>
-<td>REST API، Retrofit و Ktor</td>
-</tr>
-<tr>
-<td>💾 ذخیره‌سازی</td>
-<td>Room و DataStore</td>
-</tr>
-<tr>
-<td>🎵 چندرسانه‌ای</td>
-<td>Media3، ExoPlayer و MediaSession</td>
-</tr>
-<tr>
-<td>💉 مدیریت وابستگی</td>
-<td>Hilt و Koin</td>
-</tr>
-<tr>
-<td>🚀 کیفیت نرم‌افزار</td>
-<td>خوانایی، نگهداری‌پذیری و عملکرد مناسب</td>
-</tr>
-</table>---
+### Networking & Serialization
 
-"05" / پروژه در حال توسعه
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square)
+![Kotlinx Serialization](https://img.shields.io/badge/Kotlinx_Serialization-7F52FF?style=flat-square)
 
-<div align="center"><a href="https://github.com/aminsakha/Nova_Player">
-  <img src="https://img.shields.io/badge/NOVA_PLAYER-6D28D9?style=for-the-badge&logo=android&logoColor=white" />
-</a>🎵 Nova Player
+### Database & Storage
 
-یک تجربه مدرن برای پخش موسیقی در اندروید
+![Room](https://img.shields.io/badge/Room-6DB33F?style=flat-square)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Media3-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean_Architecture-059669?style=flat-square" /><br><br>
+### Dependency Injection & Libraries
 
-تمرکز بر معماری پخش رسانه، مدیریت صف آهنگ‌ها، پخش در پس‌زمینه، MediaSession و طراحی رابط کاربری مدرن.
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=flat-square)
+![Koin](https://img.shields.io/badge/Koin-6D28D9?style=flat-square)
+![Coil](https://img.shields.io/badge/Coil-7F52FF?style=flat-square)
+![Lottie](https://img.shields.io/badge/Lottie-00C4CC?style=flat-square)
 
-<br><br>
+### Media & Multiplatform
 
-<a href="https://github.com/aminsakha/Nova_Player">
-  <img src="https://img.shields.io/badge/مشاهده_پروژه-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>---
+![Media3](https://img.shields.io/badge/AndroidX_Media3-FF6F00?style=flat-square)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF6F00?style=flat-square)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square)
 
-"06" / آمار گیت‌هاب
+### Tools & Workflow
 
-<div align="center"><a href="https://github.com/behnamUix">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="آمار فعالیت‌های گیت‌هاب" />
-</a><a href="https://github.com/behnamUix">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&hide_border=true" alt="زبان‌های برنامه‌نویسی" />
-</a><br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,figma,idea,vscode&theme=dark"/>
+</p>
+
+---
+
+## 04 / رویکرد مهندسی
+
+برای من توسعه نرم‌افزار فقط نوشتن کد نیست؛ تصمیم‌های معماری و کیفیت پیاده‌سازی به همان اندازه اهمیت دارند.
+
+| حوزه | رویکرد |
+|---|---|
+| Architecture | جداسازی مسئولیت‌ها و ساختار قابل توسعه |
+| UI Engineering | رابط کاربری Declarative با Compose |
+| State Management | MVI و Unidirectional Data Flow |
+| Concurrency | Coroutines و Flow |
+| Networking | مدیریت ارتباط با API و خطاها |
+| Persistence | مدیریت داده‌های محلی |
+| Dependency Injection | مدیریت وابستگی‌ها |
+| Code Quality | خوانایی، نگهداری‌پذیری و قابلیت تست |
+| User Experience | توجه به جزئیات رابط و تعامل کاربر |
+
+---
+
+## 05 / پروژه در حال توسعه
+
+<div align="center">
+
+### 🎵 Nova Player
+
+**Building a Modern Android Music Experience**
+
+</div>
+
+در حال توسعه تجربه‌ای مدرن برای پخش موسیقی در اندروید با تمرکز بر معماری صحیح پخش رسانه، مدیریت صف آهنگ‌ها و پخش پایدار در پس‌زمینه.
+
+`Media3` · `ExoPlayer` · `Jetpack Compose` · `Kotlin` · `Clean Architecture`
+
+[مشاهده پروژه در GitHub](https://github.com/aminsakha/Nova_Player)
+
+---
+
+## 06 / آمار و فعالیت GitHub
+
+نمایی از فعالیت‌ها، مشارکت‌ها و زبان‌های برنامه‌نویسی مورد استفاده من در GitHub.
+
+<div align="center">
 
 <a href="https://github.com/behnamUix">
-<img width="95%" src="https://streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true" alt="تداوم فعالیت در گیت‌هاب" />
-</a><br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=behnamUix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/behnamUix">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="نمودار مشارکت‌های گیت‌هاب" />
-</a></div>---
 
-"07" / ارتباط با من
+<img width="75%" src="https://streak-stats.demolab.com?user=behnamUix&theme=tokyonight&hide_border=true"/>
 
-<div align="center">برای همکاری، تبادل تجربه یا گفتگو درباره توسعه اندروید و طراحی رابط کاربری، خوشحال می‌شوم در ارتباط باشیم.
+</a>
 
-<br><a href="mailto:behnam.ir77@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><a href="https://www.linkedin.com/in/behnamuix/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://github.com/behnamUix">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><br><br>
+<br/><br/>
 
-💜 ساختن تجربه‌های بهتر، یک ویژگی در هر مرحله.
+<a href="https://github.com/behnamUix">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:8B5CF6&height=120&section=footer" /></div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=behnamUix&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/>
+
+</a>
+
+</div>
+
+---
+
+## 07 / ارتباط با من
+
+برای همکاری در پروژه‌های Android، توسعه محصولات نرم‌افزاری، تبادل تجربه و فرصت‌های شغلی آماده گفتگو هستم.
+
+<div align="center">
+
+<a href="mailto:behnam.ir77@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/behnamuix/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/behnamUix">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**ساخت نرم‌افزار خوب، نتیجه تصمیم‌های مهندسی درست است.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:4C1D95,100:8B5CF6&height=120&section=footer"/>
+
+</div>
