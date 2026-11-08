@@ -167,25 +167,38 @@
 
 ---
 
-## 📊 GitHub Analytics
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-stats/cards.dark.svg"
-  />
-  <img
-    src="./assets/github-stats/cards.light.svg"
-    alt="GitHub Profile Analytics"
-    width="100%"
-  />
-</picture>
+<a href="https://github.com/behnamUix">
+  <img src="https://img.shields.io/github/followers/behnamUix?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/behnamUix?tab=repositories">
+  <img src="https://img.shields.io/github/repos/behnamUix?style=for-the-badge&logo=github&label=Public%20Repositories&color=2563EB" alt="Public Repositories"/>
+</a>
+
+<a href="https://github.com/behnamUix?tab=stars">
+  <img src="https://img.shields.io/github/stars/behnamUix?style=for-the-badge&logo=github&label=Stars&color=EAB308" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/behnamUix">
+  <img src="https://img.shields.io/github/last-commit/behnamUix/behnamUix?style=for-the-badge&logo=github&label=Last%20Profile%20Update&color=16A34A" alt="Last Profile Update"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/behnamUix?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
+
 
 ## 🎯 Currently Learning & Building
 
